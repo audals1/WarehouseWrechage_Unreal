@@ -1598,3 +1598,160 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.09.26-07.46.28:405][697]AssetCheck: New page: Asset Save: multiple assets
 [2023.09.26-07.46.28:405][697]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
 [2023.09.26-07.46.28:405][697]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
+[2023.09.26-08.00.25:599][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.09.26-08.00.25:601][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Saved/Autosaves/Game/Main_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.09.26-08.00.25:645][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto7
+[2023.09.26-08.00.25:646][717]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Saved/Main_Auto7D968EE45481902801292969CBFFCBE52.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Saved/Autosaves/Game/Main_Auto7.umap'
+[2023.09.26-08.00.25:647][717]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Saved/Autosaves/Game/Main_Auto7.umap is in the /Temp path, will not scan.
+[2023.09.26-08.00.25:647][717]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.060
+[2023.09.26-08.00.25:647][717]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2023.09.26-08.17.27:765][189]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.078 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2234 files in 3500 folders with total size 158 MiB.
+[2023.09.26-08.21.59:576][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.09.26-08.21.59:577][874]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.012
+[2023.09.26-08.21.59:577][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Projectile] ([2] browsable assets)...
+[2023.09.26-08.21.59:693][874]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Projectile.BP_Projectile]
+[2023.09.26-08.21.59:693][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Projectile]
+[2023.09.26-08.21.59:696][874]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Projectile_Auto8
+[2023.09.26-08.21.59:696][874]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Saved/BP_Projectile_Auto8EC31CF2B43D99F0865DACAA3DC5E9DC9.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Saved/Autosaves/Game/BP_Projectile_Auto8.uasset'
+[2023.09.26-08.21.59:697][874]LogFileHelpers: Auto-saving content packages took 0.120
+[2023.09.26-08.22.27:703][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.26-08.22.27:891][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Content/BP_Projectile.uasset" SILENT=true
+[2023.09.26-08.22.27:895][500]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2023.09.26-08.22.27:895][500]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Saved/BP_ProjectileB3D55AF24B4F5C0E3E27D2ACADEE0E57.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Content/BP_Projectile.uasset'
+[2023.09.26-08.22.27:902][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 1.21 sec)
+[2023.09.26-08.22.27:903][500]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.09.26-08.22.27:903][500]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
+[2023.09.26-08.22.29:843][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.26-08.22.29:877][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Content/BP_Projectile.uasset" SILENT=true
+[2023.09.26-08.22.29:880][712]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2023.09.26-08.22.29:880][712]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Saved/BP_Projectile80097A214E8B710D49E9BE9EB4756170.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Content/BP_Projectile.uasset'
+[2023.09.26-08.22.29:885][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.25 sec)
+[2023.09.26-08.22.29:886][712]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.09.26-08.22.29:886][712]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
+[2023.09.26-08.22.30:022][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.26-08.22.30:078][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Content/BP_Projectile.uasset" SILENT=true
+[2023.09.26-08.22.30:081][725]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2023.09.26-08.22.30:081][725]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Saved/BP_Projectile8E79938047E86A032EDAFD9D35A3C01B.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Content/BP_Projectile.uasset'
+[2023.09.26-08.22.30:086][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.31 sec)
+[2023.09.26-08.22.30:087][725]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.09.26-08.22.30:087][725]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
+[2023.09.26-08.22.31:255][849]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.26-08.22.31:258][849]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.09.26-08.22.31:266][849]LogPlayLevel: [PlayLevel] Compiling BP_Projectile before play...
+[2023.09.26-08.22.31:285][849]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2023.09.26-08.22.31:313][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.09.26-08.22.31:315][849]LogPlayLevel: PlayLevel: Blueprint regeneration took 55 ms (2 blueprints)
+[2023.09.26-08.22.31:315][849]PIE: New page: PIE session: Main (2023. 9. 27. 오전 2:22:31)
+[2023.09.26-08.22.31:315][849]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2023.09.26-08.22.31:317][849]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.09.26-08.22.31:330][850]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.09.26-08.22.31:344][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014214s)
+[2023.09.26-08.22.31:344][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.014245s)
+[2023.09.26-08.22.31:354][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.09.26-08.22.31:356][850]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.26-08.22.31:356][850]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.26-08.22.31:356][850]LogAIModule: Creating AISystem for world Main
+[2023.09.26-08.22.31:356][850]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2023.09.26-08.22.31:356][850]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.09.26-08.22.31:356][850]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.26-08.22.31:356][850]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.26-08.22.31:356][850]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.26-08.22.31:356][850]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.26-08.22.31:356][850]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.26-08.22.31:356][850]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.26-08.22.31:356][850]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.26-08.22.31:356][850]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.26-08.22.31:356][850]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.26-08.22.31:356][850]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.26-08.22.31:356][850]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.26-08.22.31:359][850]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.26-08.22.31:367][850]LogAudioMixer: Display: Using Audio Hardware Device ULTRON 2758(NVIDIA High Definition Audio)
+[2023.09.26-08.22.31:367][850]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.26-08.22.31:367][850]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.26-08.22.31:367][850]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.26-08.22.31:367][850]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.09.26-08.22.31:367][850]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.09.26-08.22.31:369][850]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.09.26-08.22.31:369][850]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.09.26-08.22.31:369][850]LogInit: FAudioDevice initialized with ID 5.
+[2023.09.26-08.22.31:369][850]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main'.
+[2023.09.26-08.22.31:369][850]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.09.26-08.22.31:429][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-08.22.31:429][850]LogLoad: Game class is 'GameModeBase'
+[2023.09.26-08.22.31:437][850]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.26-17.22.31
+[2023.09.26-08.22.31:437][850]LogWorld: Bringing up level for play took: 0.008243
+[2023.09.26-08.22.31:438][850]LogBlueprintUserMessages: [Main_C_4] Welcom to Warhouse
+[2023.09.26-08.22.31:438][850]LogBlueprintUserMessages: [Main_C_4] Get Ready to rumble!
+[2023.09.26-08.22.31:438][850]LogBlueprintUserMessages: [Main_C_4] 20
+[2023.09.26-08.22.31:439][850]PIE: Server logged in
+[2023.09.26-08.22.31:440][850]PIE: Play in editor total start time 0.181 seconds.
+[2023.09.26-08.22.31:448][850]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.09.26-08.22.33:470][  7]LogBlueprintUserMessages: [BP_Projectile_C_0] BP_Projectile_C_0
+[2023.09.26-08.22.33:470][  7]LogBlueprintUserMessages: [Main_C_4] 19
+[2023.09.26-08.22.34:475][106]LogBlueprintUserMessages: [BP_Projectile_C_1] BP_Projectile_C_1
+[2023.09.26-08.22.34:475][106]LogBlueprintUserMessages: [Main_C_4] 18
+[2023.09.26-08.22.35:619][226]LogBlueprintUserMessages: [BP_Projectile_C_2] BP_Projectile_C_2
+[2023.09.26-08.22.35:619][226]LogBlueprintUserMessages: [Main_C_4] 17
+[2023.09.26-08.22.36:822][358]LogBlueprintUserMessages: [BP_Projectile_C_3] BP_Projectile_C_3
+[2023.09.26-08.22.36:822][358]LogBlueprintUserMessages: [Main_C_4] 16
+[2023.09.26-08.22.37:347][417]LogBlueprintUserMessages: [BP_Projectile_C_4] BP_Projectile_C_4
+[2023.09.26-08.22.37:347][417]LogBlueprintUserMessages: [Main_C_4] 15
+[2023.09.26-08.22.37:897][479]LogBlueprintUserMessages: [BP_Projectile_C_5] BP_Projectile_C_5
+[2023.09.26-08.22.37:897][479]LogBlueprintUserMessages: [Main_C_4] 14
+[2023.09.26-08.22.38:359][531]LogBlueprintUserMessages: [BP_Projectile_C_6] BP_Projectile_C_6
+[2023.09.26-08.22.38:359][531]LogBlueprintUserMessages: [Main_C_4] 13
+[2023.09.26-08.22.38:911][593]LogBlueprintUserMessages: [BP_Projectile_C_7] BP_Projectile_C_7
+[2023.09.26-08.22.38:911][593]LogBlueprintUserMessages: [Main_C_4] 12
+[2023.09.26-08.22.39:430][651]LogBlueprintUserMessages: [BP_Projectile_C_8] BP_Projectile_C_8
+[2023.09.26-08.22.39:430][651]LogBlueprintUserMessages: [Main_C_4] 11
+[2023.09.26-08.22.39:892][703]LogBlueprintUserMessages: [BP_Projectile_C_9] BP_Projectile_C_9
+[2023.09.26-08.22.39:892][703]LogBlueprintUserMessages: [Main_C_4] 10
+[2023.09.26-08.22.40:272][745]LogBlueprintUserMessages: [BP_Projectile_C_10] BP_Projectile_C_10
+[2023.09.26-08.22.40:272][745]LogBlueprintUserMessages: [Main_C_4] 9
+[2023.09.26-08.22.40:613][783]LogBlueprintUserMessages: [BP_Projectile_C_11] BP_Projectile_C_11
+[2023.09.26-08.22.40:613][783]LogBlueprintUserMessages: [Main_C_4] 8
+[2023.09.26-08.22.41:034][830]LogBlueprintUserMessages: [BP_Projectile_C_12] BP_Projectile_C_12
+[2023.09.26-08.22.41:034][830]LogBlueprintUserMessages: [Main_C_4] 7
+[2023.09.26-08.22.41:250][854]LogBlueprintUserMessages: [BP_Projectile_C_13] BP_Projectile_C_13
+[2023.09.26-08.22.41:250][854]LogBlueprintUserMessages: [Main_C_4] 6
+[2023.09.26-08.22.41:438][875]LogBlueprintUserMessages: [BP_Projectile_C_14] BP_Projectile_C_14
+[2023.09.26-08.22.41:439][875]LogBlueprintUserMessages: [Main_C_4] 5
+[2023.09.26-08.22.41:601][893]LogBlueprintUserMessages: [BP_Projectile_C_15] BP_Projectile_C_15
+[2023.09.26-08.22.41:601][893]LogBlueprintUserMessages: [Main_C_4] 4
+[2023.09.26-08.22.41:790][914]LogBlueprintUserMessages: [BP_Projectile_C_16] BP_Projectile_C_16
+[2023.09.26-08.22.41:790][914]LogBlueprintUserMessages: [Main_C_4] 3
+[2023.09.26-08.22.41:991][936]LogBlueprintUserMessages: [BP_Projectile_C_17] BP_Projectile_C_17
+[2023.09.26-08.22.41:991][936]LogBlueprintUserMessages: [Main_C_4] 2
+[2023.09.26-08.22.42:199][959]LogBlueprintUserMessages: [BP_Projectile_C_18] BP_Projectile_C_18
+[2023.09.26-08.22.42:199][959]LogBlueprintUserMessages: [Main_C_4] 1
+[2023.09.26-08.22.42:613][  5]LogBlueprintUserMessages: [BP_Projectile_C_19] BP_Projectile_C_19
+[2023.09.26-08.22.42:613][  5]LogBlueprintUserMessages: [Main_C_4] 0
+[2023.09.26-08.22.43:280][ 79]LogBlueprintUserMessages: [Main_C_4] Relord!!!
+[2023.09.26-08.22.43:921][150]LogBlueprintUserMessages: [Main_C_4] Relord!!!
+[2023.09.26-08.22.44:229][184]LogBlueprintUserMessages: [Main_C_4] Relord!!!
+[2023.09.26-08.22.44:513][215]LogBlueprintUserMessages: [Main_C_4] Relord!!!
+[2023.09.26-08.22.44:765][243]LogBlueprintUserMessages: [Main_C_4] Relord!!!
+[2023.09.26-08.22.44:963][265]LogBlueprintUserMessages: [Main_C_4] Relord!!!
+[2023.09.26-08.22.45:151][286]LogBlueprintUserMessages: [Main_C_4] Relord!!!
+[2023.09.26-08.22.45:328][306]LogBlueprintUserMessages: [Main_C_4] Relord!!!
+[2023.09.26-08.22.45:509][326]LogBlueprintUserMessages: [Main_C_4] Relord!!!
+[2023.09.26-08.23.21:483][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-08.23.21:483][304]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.09.26-08.23.21:484][304]LogSlate: Window 'WarehouseWrechage Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.26-08.23.21:490][304]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-08.23.21:490][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-08.23.21:493][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.26-08.23.21:496][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-08.23.21:507][304]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.26-08.23.21:507][304]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.09.26-08.23.21:507][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.09.26-08.23.21:508][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.09.26-08.23.21:516][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.09.26-08.23.21:541][307]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.09.26-08.23.24:101][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.26-08.23.24:205][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Content/BP_Projectile.uasset" SILENT=true
+[2023.09.26-08.23.24:208][606]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2023.09.26-08.23.24:209][606]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Saved/BP_Projectile8C12F7724E82A1AA849843BE5AC21160.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Content/BP_Projectile.uasset'
+[2023.09.26-08.23.24:215][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 1.43 sec)
+[2023.09.26-08.23.24:217][606]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.09.26-08.23.24:217][606]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
