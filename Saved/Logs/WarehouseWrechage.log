@@ -2723,3 +2723,14 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.09.27-07.57.19:196][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 592 ms)
 [2023.09.27-07.57.19:199][549]AssetCheck: New page: Asset Save: SM_Barrel02
 [2023.09.27-07.57.19:199][549]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel02.SM_Barrel02
+[2023.09.27-07.59.17:407][562]LogSlate: Window 'Delete Function' being destroyed
+[2023.09.27-07.59.21:780][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.09.27-07.59.21:785][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-07.59.21:817][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.27-07.59.21:842][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.09.27-07.59.21:889][ 44]LogSavePackage: Moving output files for package: /Game/Main
+[2023.09.27-07.59.21:890][ 44]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Saved/MainE5E99EE346B801F657E45B9B0F82A701.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Content/Main.umap'
+[2023.09.27-07.59.21:894][ 44]LogFileHelpers: Saving map 'Main' took 0.078
+[2023.09.27-07.59.21:901][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 709 ms)
+[2023.09.27-07.59.21:905][ 44]AssetCheck: New page: Asset Save: Main
+[2023.09.27-07.59.21:905][ 44]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
