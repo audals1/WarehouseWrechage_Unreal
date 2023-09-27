@@ -2734,3 +2734,13 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.09.27-07.59.21:901][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 709 ms)
 [2023.09.27-07.59.21:905][ 44]AssetCheck: New page: Asset Save: Main
 [2023.09.27-07.59.21:905][ 44]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.09.27-08.00.52:562][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-08.00.52:598][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.27-08.00.52:625][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.09.27-08.00.52:672][442]LogSavePackage: Moving output files for package: /Game/Main
+[2023.09.27-08.00.52:673][442]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Saved/Main558C5EB744EF05A98A3254ABDE6FF115.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/WarehouseWrechage/Content/Main.umap'
+[2023.09.27-08.00.52:677][442]LogFileHelpers: Saving map 'Main' took 0.079
+[2023.09.27-08.00.52:682][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 829 ms)
+[2023.09.27-08.00.52:684][442]AssetCheck: New page: Asset Save: Main
+[2023.09.27-08.00.52:684][442]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.09.27-08.00.55:637][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
